@@ -1,6 +1,6 @@
 package strings;
 
-public class test {
+public class Sample {
 }
 
 /*
