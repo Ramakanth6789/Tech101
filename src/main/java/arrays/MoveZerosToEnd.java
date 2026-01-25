@@ -11,7 +11,7 @@ public class MoveZerosToEnd {
     }
 
     public static int[] moveZerosToEndOfArray(int[] array) {
-        int cursor=0;
+        int cursor=0; // points to the next position to place a non-zero element
 
         for(int i=0; i<array.length; i++){
             if(array[i]!=0){
